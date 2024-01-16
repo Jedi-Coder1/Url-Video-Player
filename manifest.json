@@ -1,0 +1,17 @@
+{
+   "action": {
+      "default_icon": "assets/icon.png",
+      "default_title": "Url Video Player"
+   },
+   "author": "SnakySeek",
+   "background": {
+      "service_worker": "servicework.js"
+   },
+   "description": "Allows To Play File Urls",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4aKlaR5CCYevuhT/SiYRkYOt3Ip5r8vUcuasopIGTIW0VZJ6vK5NPnXu1e9Gfv9MFcxlh0MF+5zrkMaAsYNn/w6ZDPyqgblYuUz0hwJTFz9mOl5mw84VTCP5Za9viAzMhiD0VqnikfCFReSdvu2S9MptDBUyL5J7eDtpLP2TfUVdHgx+hi/15cv2yo4AQva8TR1VKOUvNkrq9ESQz4rE0bLwkjlc8c58abi/KoVpnrFRe76NZcgTZthNB6r6Mff9tQpDlpugxDxNavxIe8PpuN7aO1nI+AO7kD+BGMMJJM8rmkQFyTLywyFrKVyD6uREmReRnneIxThzP98Jg+iqFwIDAQAB",
+   "manifest_version": 3,
+   "name": "Url Video Player",
+   "permissions": [ "downloads" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
