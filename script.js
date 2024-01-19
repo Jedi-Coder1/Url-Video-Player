@@ -1,0 +1,1 @@
+document.getElementById('Vid').setAttribute('src',window.location.href.split('?url=').pop())
