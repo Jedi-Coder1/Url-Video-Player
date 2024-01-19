@@ -7,7 +7,7 @@
    "background": {
       "service_worker": "servicework.js"
    },
-   "description": "Allows To Play File Urls",
+   "description": "when downloading a video a new tab will open with a preview of said video",
    "manifest_version": 3,
    "name": "Url Video Player",
    "permissions": [ "downloads" ],
